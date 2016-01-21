@@ -6,7 +6,7 @@
 
     <groupId>com.lemniscate.struct</groupId>
     <artifactId>spring-paging-module</artifactId>
-    <version>1.0.1.RELEASE</version>
+    <version>1.0.2.SNAPSHOT</version>
 
     <dependencies>
         <dependency>
