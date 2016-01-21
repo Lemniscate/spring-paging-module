@@ -1,3 +1,4 @@
+package com.github.lemniscate.struct.paging;
 
 import com.fasterxml.jackson.databind.module.*;
 import org.springframework.data.domain.Page;
